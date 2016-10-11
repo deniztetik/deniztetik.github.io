@@ -218,9 +218,9 @@ a:focus {
   }
 }
 .content-section {
-  padding-top: 100px;
+  padding-top: 60px;
 }
-.download-section {
+.toyproblems-section, .portfolio-section {
   width: 100%;
   padding: 50px 0;
   color: white;
@@ -238,9 +238,9 @@ a:focus {
 }
 @media (min-width: 767px) {
   .content-section {
-    padding-top: 250px;
+    padding-top: 175px;
   }
-  .download-section {
+  .toyproblems-section, .portfolio-section {
     padding: 100px 0;
   }
   #map {
